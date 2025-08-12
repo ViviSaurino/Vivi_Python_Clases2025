@@ -6,3 +6,9 @@ Archivos de la clase de Python de la Diplomatura Ciencia de Datos para la gesti√
 2. Amanda Apaza
 3. Judith Arrieta
 4. Danae Enriquez
+
+## Colores
+1. Violeta
+2. Celeste
+3. Rosado
+4. Azul
