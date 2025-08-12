@@ -12,3 +12,9 @@ Archivos de la clase de Python de la Diplomatura Ciencia de Datos para la gesti√
 2. Celeste
 3. Rosado
 4. Azul
+
+## Mascotas
+1. Perla
+2. Richi
+3. Mussi
+4. Elvis
