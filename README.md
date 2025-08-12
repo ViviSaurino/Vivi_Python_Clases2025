@@ -2,7 +2,7 @@
 Archivos de la clase de Python de la Diplomatura Ciencia de Datos para la gestión pública y social - PUCP
 
 ## Lista de mejores amigas
-1.Violeta Bárcena
-2.Amanda Apaza
-3.Judith Arrieta
-4.Danae Enriquez
+1. Violeta Bárcena
+2. Amanda Apaza
+3. Judith Arrieta
+4. Danae Enriquez
